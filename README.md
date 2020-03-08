@@ -1,2 +1,2 @@
 # Keylogger
-Contains code for advanced keylogger with some helper files that I created.
+Contains code for advanced keylogger which can store the key strokes of user.
